@@ -29,18 +29,18 @@
         <a href="https://github.com/x5red78-HACKC1UB/My_Website-2">Github 
         Repo!</a>
 </footer>
-    <audio controls autoplay loop>
+    <audio id="myAudio" controls autoplay loop>
       <source src="songlofi.mp3" type="audio/mpeg">
       <source src="songlofi.wav" type="audio/wav">
       Your browser does not support HTML5 audio.
     </audio>
 
     <script>
-  // Wait for any user interaction
   window.addEventListener("click", function () {
     const audio = document.getElementById("myAudio");
     audio.play();
-  }, { once: true }); // Only trigger once
+  }, { once: true }); 
 </script>
+
      </body>
 </html>
