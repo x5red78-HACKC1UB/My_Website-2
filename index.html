@@ -34,5 +34,13 @@
       <source src="songlofi.wav" type="audio/wav">
       Your browser does not support HTML5 audio.
     </audio>
+
+    <script>
+  // Wait for any user interaction
+  window.addEventListener("click", function () {
+    const audio = document.getElementById("myAudio");
+    audio.play();
+  }, { once: true }); // Only trigger once
+</script>
      </body>
 </html>
