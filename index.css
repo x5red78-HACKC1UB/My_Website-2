@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    font-family: Comic Sans MS;
+    color:azure;
+    size-adjust: 110%; 
+    background-image: url(https://i.pinimg.com/originals/dc/a6/16/dca616db3450b5a64c0d1b655a7d0be5.gif);
+    background-size: cover;
+    background-position: center;
+    background-color: aqua;
+}
