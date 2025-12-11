@@ -5,5 +5,5 @@
          alt="This project is part of Moonshot, a 4-day hackathon in Florida visiting Kennedy Space Center and Universal Studios!" 
          style="width: 100%;">
   </a>
- <img src="https://snipboard.io/SA6vk0.jpg" alt="My website" width="200"/>
+ <img src="https://snipboard.io/SA6vk0.jpg" alt="My website" width="500" height="500"/>
 </div>
